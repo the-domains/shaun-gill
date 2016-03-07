@@ -16,7 +16,7 @@ color:
   brandStrength: 0.1032541
   lightness: 0
   saturation: 0
-  rhythmicContrast: 0
+  rhythmicContrast: 1
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
