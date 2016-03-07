@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T05:06:07.692Z'
-dateModified: '2016-03-07T05:05:14.433Z'
+datePublished: '2016-03-07T05:07:37.983Z'
+dateModified: '2016-03-07T05:07:27.548Z'
 author: []
-title: Prologue - Between a Rock-Statue and a Hardbound-Book Place
+title: Prologue
 sourcePath: _posts/2016-03-07-prologue-between-a-rock-statue-and-a-hardbound-book-place.md
 published: true
 authors: []
@@ -23,7 +23,9 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Prologue - Between a Rock-Statue and a Hardbound-Book Place
+# Prologue
+
+# Between a Rock-Statue and a Hardbound-Book Place
 
 Shredded bits of paper fell to the ground as pages were ripped from their bound covers. Gunshots pierced the air of the grand library. The moments of silence were not the same as when the library was calm before the chaos. Marshall's head throbbed from the blasts that pounded at his eardrums. Two gunmen approached from the distance after they ceased fire. The gentle _jingle_ of their spurs rang along the rows of books that still lined the tall shelves.
 
