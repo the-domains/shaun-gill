@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-07T01:53:10.944Z'
+datePublished: '2016-03-07T02:50:58.492Z'
 publisher:
   domain: ''
   name: ''
 title: Chapter 1 - The Girl (Circa 1890)
-dateModified: '2016-03-07T01:52:44.943Z'
+dateModified: '2016-03-07T02:50:15.213Z'
 sourcePath: _posts/2016-03-07-chapter-1-the-girl-circa-1890.md
 published: true
 inFeed: true
@@ -70,3 +70,5 @@ He looked right back at her. "You don't worry 'bout that. I ain't stayin' long. 
 The branch quickly stopped after hitting water and splashed it all over him. Marshall hopped over it and ran up the slope to stop the girl. His gun-belt was gone from beneath his coat, and the girl was not in sight. Some dirt was cupped from the ground. Marshall knew exactly where she went. He pursued her footprints that wound past trees. They led him to a clearing where a random brown spotted cow stared back at him as it chewed cud. There were too many cow-prints to see where she had gone from here. His gun-belt was hanging from a tree branch high above, but Marshall could make out that his revolver was not in its holster. He passed the cow, patting it firmly as he did, and found a fresh brown pile of cow manure where only the hammer of the revolver poked out.
 
 He thought to say it out loud, but it spoke for itself.
+
+Copyright (c) 2016 Shaun Gill. All Rights Reserved.
