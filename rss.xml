@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Shaun Gill]]></title>
         <description><![CDATA[Shaun Gill]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shaun-gill/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 01:51:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 01:53:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shaun-gill/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chapter 1 - The Girl (Circa 1890)]]></title>
+            <description><![CDATA[<article><h1>Chapter 1 - The Girl (Circa 1890)</h1><p>Marshall's calves were submerged in the river. Pant-legs rolled up, suspenders dangling loose at his side, and hat removed, he was in his most casual and vulnerable state other than when he was asleep. He tied his brown hair into a mini-ponytail behind his head, curled the tips of his handlebar-mustache in small circles after stretching it out, and then pulled out two socks that were tucked halfway into his pants. He dunked them into the water several times, and began scrubbing together. Somebody had to clean them, it was one of the things he was obsessive about.</p></article>]]></description>
+            <link>https://thegrid.ai/shaun-gill/chapter-1-the-girl-circa-1890/index.html</link>
+            <guid isPermaLink="false">fd36e4fd-0989-4c1c-a83a-3288ff7aded1</guid>
+            <pubDate>Mon, 07 Mar 2016 01:53:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Marshall - The Left-Handed Gunslinger]]></title>
             <description><![CDATA[<article><h1>Marshall - The Left-Handed Gunslinger</h1><p>Prologue
 Between a Rock-Statue and a Hardbound-Book Place</p></article>]]></description>
-            <link>undefinedmarshall-the-left-handed-gunslinger/index.html</link>
+            <link>https://thegrid.ai/shaun-gill/marshall-the-left-handed-gunslinger/index.html</link>
             <guid isPermaLink="false">7adee17d-1e3e-44e2-b7ba-5017542d730a</guid>
             <pubDate>Mon, 07 Mar 2016 01:51:38 GMT</pubDate>
         </item>
