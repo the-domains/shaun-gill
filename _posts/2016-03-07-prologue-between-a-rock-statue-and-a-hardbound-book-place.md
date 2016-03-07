@@ -1,25 +1,31 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:644ad7cf-a351-4aba-ac08-66b5373af092'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-07T05:06:07.692Z'
+dateModified: '2016-03-07T05:05:14.433Z'
 author: []
-datePublished: '2016-03-07T02:50:45.544Z'
-publisher:
-  domain: ''
-  name: ''
 title: Prologue - Between a Rock-Statue and a Hardbound-Book Place
-dateModified: '2016-03-07T02:49:46.161Z'
 sourcePath: _posts/2016-03-07-prologue-between-a-rock-statue-and-a-hardbound-book-place.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: prologue-between-a-rock-statue-and-a-hardbound-book-place/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Prologue - Between a Rock-Statue and a Hardbound-Book Place
 
-Shredded bits of paper fell to the ground as pages were ripped from their bound covers. Gunshots pierced the air of the grand library. The moments of silence were not the same as when the library was calm before the chaos. Marshall's head throbbed from the blasts that pounded at his eardrums. Two gunmen approached from the distance after they ceased fire. The gentle JINGLE of their spurs rang along the rows of books that still lined the tall shelves.
+Shredded bits of paper fell to the ground as pages were ripped from their bound covers. Gunshots pierced the air of the grand library. The moments of silence were not the same as when the library was calm before the chaos. Marshall's head throbbed from the blasts that pounded at his eardrums. Two gunmen approached from the distance after they ceased fire. The gentle _jingle_ of their spurs rang along the rows of books that still lined the tall shelves.
 
 Marshall found solace as he sat on the marble flooring behind a guardian; it was a statue of an angel with wings that spanned wide in the air above. Its arms were outstretched in front, ushering a shielding embrace. He exhaled deeply as he reached for the holster on his left hip, his fingers dropped near the bottom of the hole, and his stomach likewise felt like it fell into a hole. It was a habit to grab for his revolver when threatened. Although he was thankful for the generous angel taking bullets in his place, he wished that a Colt was in his hand with a full load of ammunition. It was what he knew. It was familiar and common like wearing a wide-brimmed hat to protect from the blistering sun, or to down a beer while around company.
 
@@ -47,6 +53,6 @@ There was no response.
 
 "Okay," the desk decided. "I'm gonna take a look to see if we're clear on three, then I'll throw one of them to you." It let out an audible breath. "One...two...three!"
 
-A single shot WHIZZED by. The librarian's eyes just as quickly peeked above the desk as they returned below, ending in a loud THUD that was his body hitting hard. Marshall swore again.
+A single shot _whizzed_ by. The librarian's eyes just as quickly peeked above the desk as they returned below, ending in a loud _thud_ that was his body hitting hard. Marshall swore again.
 
 Copyright (c) 2016 Shaun Gill. All Rights Reserved.
