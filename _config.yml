@@ -1,4 +1,4 @@
-layout_spectrum: 0.1620776
+layout_spectrum: 0
 name: Shaun Gill
 collections:
   - index:
@@ -15,8 +15,8 @@ collections:
 typography_spectrum: 0.7340425
 color:
   brandStrength: 0.1032541
-  lightness: 0.1871089
-  saturation: 0.08698373
+  lightness: 0.3322904
+  saturation: 0.1633292
   rhythmicContrast: 0.3861076
   brandColors:
     - '#F7EDF0'
