@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Shaun Gill]]></title>
+        <description><![CDATA[Shaun Gill]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 02:50:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Prologue - Between a Rock-Statue and a Hardbound-Book Place]]></title>
+            <description><![CDATA[<article><h1>Prologue - Between a Rock-Statue and a Hardbound-Book Place</h1><p>Shredded bits of paper fell to the ground as pages were ripped from their bound covers. Gunshots pierced the air of the grand library. The moments of silence were not the same as when the library was calm before the chaos. Marshall's head throbbed from the blasts that pounded at his eardrums. Two gunmen approached from the distance after they ceased fire. The gentle JINGLE of their spurs rang along the rows of books that still lined the tall shelves.</p></article>]]></description>
+            <link>undefinedprologue-between-a-rock-statue-and-a-hardbound-book-place/index.html</link>
+            <guid isPermaLink="false">7c1294ba-de44-4447-bed3-175a7265c82b</guid>
+            <pubDate>Mon, 07 Mar 2016 02:50:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
