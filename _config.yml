@@ -1,4 +1,4 @@
-layout_spectrum: 0.86796
+layout_spectrum: 0.4837297
 name: Shaun Gill
 collections:
   - index:
@@ -12,10 +12,11 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 1
 color:
   brandStrength: 0.1032541
   lightness: 0
-  saturation: 0
+  saturation: 1
   rhythmicContrast: 1
   brandColors:
     - '#F7EDF0'
@@ -23,4 +24,3 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-typography_spectrum: 1
